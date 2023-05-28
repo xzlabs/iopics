@@ -1,2 +1,0 @@
-# iopics
-iolabs and pics
